@@ -1,0 +1,102 @@
+*{
+
+}
+
+
+h2{
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+
+.password{
+    text-align: left;
+}
+
+.forgotpassword {
+    Color: blue;
+    float: right;
+    position: relative;
+    Top: 6px
+}
+
+.btn-warning {
+    background color: rgb(255, 217, 0);
+    margin: 20px 0 20px 0;
+    
+}
+
+.container{
+    border: solid;
+    border-color: lightgray;
+    width: 450px;
+    padding-bottom: 20px;
+    margin-top: 30px;
+}
+
+.amazon{
+    color: gray;
+    text-align: center;
+    margin-top: 15px;
+    font-size: 13px;
+}
+
+.amazon:before, .amazon:after{
+    background-color: gray;
+    content: "";   
+    display: inline-block;
+    height: 1px;
+    position: relative;
+    vertical-align: middle;
+    width: 50%;
+}
+
+.amazon:before{
+    right: 0.5em;
+    margin-left: -50%;
+    max-width: 150px;
+}
+
+.amazon:after{
+    left: 0.5em;
+    margin-right: -50%;
+    max-width: 150px;
+}
+
+
+.form-group{
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.btn-light{
+    margin: 15px 440px 0px 0px;
+    border-color:lightgray;
+    border-width: 2px;
+    width: 400px;
+    float: right;
+}
+
+.line{
+    margin: 100px 0px 0px 0px;
+    width
+}
+
+.hyperlinks{
+   display: table;
+   width: 20%;
+   table-layout: align;
+   font-size: 12px;
+   text-align: center;
+   margin-left: 507px;
+}
+
+.hyperlinks span {
+    display: table-cell;
+    text-align: center;
+}
+
+.footer{
+    text-align: center;
+    font-size: 12px;
+    margin: 30px 0 15px 0;
+}
